@@ -16,7 +16,7 @@ export const products = [
     },
 
     {
-        name: 'Phone Standard',
+        name: 'Phone Stpipoiandard',
         price: 299,
         description: ''
     }
